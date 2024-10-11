@@ -1,0 +1,2 @@
+# Video-based Action Recognition Using Deep Learning
+This repository hosts a project that focuses on video-based action recognition using deep learning techniques. It implements the R(2+1)D architecture, which separates spatial and temporal convolutions for more effective feature extraction. The model is trained on a merged dataset from the KTH and UCF Sports datasets, achieving state-of-the-art results in recognizing diverse human actions. The repository includes the code, preprocessing scripts, and evaluation metrics used to validate the model's performance.
